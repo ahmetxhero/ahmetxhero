@@ -20,4 +20,11 @@ When adding a new project:
 
 ## Current Projects
 
-Projects will be listed here as they are added to the repository.
+### Example Projects
+
+- **[example-web-app](./example-web-app/)** - A sample web application demonstrating modern web development practices
+- **[example-python-script](./example-python-script/)** - A sample Python script with proper project structure
+
+### Your Projects
+
+Add your migrated projects from the "oynaxo" repository here. Each project should have its own subdirectory with proper documentation.

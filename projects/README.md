@@ -25,6 +25,11 @@ When adding a new project:
 - **[example-web-app](./example-web-app/)** - A sample web application demonstrating modern web development practices
 - **[example-python-script](./example-python-script/)** - A sample Python script with proper project structure
 
+### Migrated Projects from OynaXo
+
+- **[oynaxo-original-README.md](./oynaxo-original-README.md)** - Original OynaXo project documentation
+- **[oynaxo-legacy-README.md](./oynaxo-legacy-README.md)** - Legacy OynaXo project documentation
+
 ### Your Projects
 
 Add your migrated projects from the "oynaxo" repository here. Each project should have its own subdirectory with proper documentation.

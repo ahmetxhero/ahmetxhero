@@ -21,7 +21,6 @@
 | Project ⚙️ | Description 📝 | Last Commit 📅 | Stars ⭐ |
 |------------|----------------|----------------|----------|
 | [ahmetxhero](https://github.com/ahmetxhero/ahmetxhero) | React TypeScript project with Firebase hosting 🌐 | [![GitHub last commit](https://img.shields.io/github/last-commit/ahmetxhero/ahmetxhero)](https://github.com/ahmetxhero/ahmetxhero) | [![GitHub Repo stars](https://img.shields.io/github/stars/ahmetxhero/ahmetxhero)](https://github.com/ahmetxhero/ahmetxhero) |
-| [welcome](https://github.com/ahmetxhero/welcome) | Welcome repository for new visitors 👋 | [![GitHub last commit](https://img.shields.io/github/last-commit/ahmetxhero/welcome)](https://github.com/ahmetxhero/welcome) | [![GitHub Repo stars](https://img.shields.io/github/stars/ahmetxhero/welcome)](https://github.com/ahmetxhero/welcome) |
 
 ### AI & Technology Projects
 | Project ⚙️ | Description 📝 | Last Commit 📅 | Stars ⭐ |

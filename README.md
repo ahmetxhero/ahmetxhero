@@ -13,7 +13,7 @@
 💬 I heavily inspired by the mantra - "Security first, innovation always"  
 🏠 I'm living in Ankara, Turkey 🇹🇷  
 🌟 I am a Mobile Developer with 10+ years of experience in Public Sector IT  
-☕ You can support my open source work on [GitHub](https://github.com/ahmetxhero) or [buy me a coffee](https://ahmetxhero.web.app/)  
+☕ You can support my open source work on [GitHub](https://github.com/ahmetxhero) or [buy me a coffee](https://buymeacoffee.com/ahmetxhero)  
 
 ## What I'm Currently Working On
 
